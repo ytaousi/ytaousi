@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&dark=true&login=ytaousi)](https://github.com/mohouyizme/1337-readme)
 
 # Hands On
 [![My Skills](https://skills.thijs.gg/icons?i=linux,git,c,cpp,js,mysql,grafana,docker,kubernetes)](https://skills.thijs.gg)
