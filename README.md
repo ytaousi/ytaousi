@@ -17,13 +17,8 @@ Here are some ideas to get you started:
 
 ![](https://github.com/ytaousi/ytaousi/blob/main/nightlife.gif)
 
-# Hands On
-[![My Skills](https://skills.thijs.gg/icons?i=linux,git,c,cpp,js,mysql,grafana,docker,kubernetes)](https://skills.thijs.gg)
-
-# Working On
-[![My Skills](https://skills.thijs.gg/icons?i=js,ts,nodejs,express,nestjs,mongodb,postgres,py)](https://skills.thijs.gg)
-
-
+# Landscape 🤔
+[![My Skills](https://skills.thijs.gg/icons?i=linux,git,c,cpp,js,mysql,postgres,prometheus,grafana,nginx,docker,kubernetes)](https://skills.thijs.gg)
 
 
 <p>
