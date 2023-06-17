@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](https://github.com/ytaousi/ytaousi/blob/main/nightlife.gif)
 
 # Landscape 🤔
-[![My Skills](https://skills.thijs.gg/icons?i=linux,git,c,cpp,js,mysql,postgres,prometheus,grafana,nginx,docker,kubernetes)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=linux,git,c,cpp,js,java,mysql,postgres,prometheus,grafana,nginx,docker,kubernetes)](https://skills.thijs.gg)
 
 
 <p>
