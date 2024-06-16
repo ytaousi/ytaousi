@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 ![](https://github.com/ytaousi/ytaousi/blob/main/nightlife.gif)
 
 # Landscape 🤔
-[![My Skills](https://skills.thijs.gg/icons?i=linux)](https://skills.thijs.gg)
-
+[![My Skills](https://skills.thijs.gg/icons?i=linux,git,c,cpp,js,java,mysql,postgres,prometheus,grafana,nginx,docker,kubernetes)](https://skills.thijs.gg)
+<p>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="32" height="32"></a>
+</p>
 
 <p>
 <a href="https://www.github.com/ytaousi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
