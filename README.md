@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p>
   <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="32" height="32"></a>
   <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32" height="32"></a>
-  <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-official.svg" width="32" height="32"></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-official.svg" width="42" height="42"></a>
   <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="32" height="32"></a>
   <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="32" height="32"></a>
   <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="32" height="32"></a>
