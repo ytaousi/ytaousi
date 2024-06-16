@@ -18,9 +18,22 @@ Here are some ideas to get you started:
 ![](https://github.com/ytaousi/ytaousi/blob/main/nightlife.gif)
 
 # Landscape 🤔
-[![My Skills](https://skills.thijs.gg/icons?i=linux,git,c,cpp,js,java,mysql,postgres,prometheus,grafana,nginx,docker,kubernetes)](https://skills.thijs.gg)
 <p>
   <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="32" height="32"></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="32" height="32"></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-official.svg" width="32" height="32"></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="32" height="32"></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="32" height="32"></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="32" height="32"></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" width="32" height="32"></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" width="32" height="32"></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="32" height="32"></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="32" height="32"></a>
+  
+  
+  
+  
+  
 </p>
 
 <p>
